@@ -1,0 +1,30 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Vacation Planning
+description: >-
+  Planning and itinerary details for upcoming vacations, including the
+  Norway Cruise August 2026 aboard MSC Magnifica.
+baseurl: "/vacation" # the subpath of your site, e.g. /blog
+url: "https://vivekcg24.github.io" # the base hostname & protocol for your site
+github_username: vivekcg24
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - README.md
