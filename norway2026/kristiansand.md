@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kristiansand, Norway
+#title: Kristiansand, Norway # Need to comment this to avoid link in main page
 ---
 
 # Kristiansand, Norway

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oslo, Norway
+#title: Oslo, Norway # Need to comment this to avoid link in main page
 ---
 
 # Oslo, Norway

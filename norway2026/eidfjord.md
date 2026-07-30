@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eidfjord, Norway
+# title: Eidfjord, Norway # Need to comment this to avoid link in main page
 ---
 
 # Eidfjord, Norway

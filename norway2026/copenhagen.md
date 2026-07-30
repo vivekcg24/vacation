@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Copenhagen, Denmark
+#title: Copenhagen, Denmark # Need to comment this to avoid link in main page
 ---
 
 # Copenhagen, Denmark

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bergen, Norway
+#title: Bergen, Norway # Need to comment this to avoid link in main page
 ---
 
 # Bergen, Norway
