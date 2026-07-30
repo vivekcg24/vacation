@@ -38,6 +38,31 @@ bundle exec jekyll serve
 
 Then open `http://localhost:4000/vacation/` in your browser.
 
+## Testing Locally
+
+To test changes locally before committing:
+
+1. **Build the site**:
+   ```bash
+   bundle exec jekyll build
+   ```
+
+2. **Preview built site**:
+   ```bash
+   bundle exec jekyll serve --drafts --future
+   ```
+
+3. **Run local tests** (if applicable):
+   - Check for broken links: `bundle exec jekyll doctor`
+   - Validate Markdown syntax: `markdownlint README.md` (if installed)
+   - Test site structure: `jekyll build --verbose`
+
+4. **Verify with browser**:
+   Visit `http://localhost:4000/vacation/` to ensure all pages render correctly
+
+5. **Limitation**:
+    Explicit .md links will not work when testing locally
+
 ## Deployment
 
 This site is automatically published to GitHub Pages when changes are pushed to the `main` branch. The `_config.yaml` is configured with:

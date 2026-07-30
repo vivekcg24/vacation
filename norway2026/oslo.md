@@ -1,3 +1,8 @@
+---
+layout: page
+title: Oslo, Norway
+---
+
 # Oslo, Norway
 * **Time Windows:** 08:00 AM – 04:00 PM
 

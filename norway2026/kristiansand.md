@@ -1,3 +1,8 @@
+---
+layout: page
+title: Kristiansand, Norway
+---
+
 # Kristiansand, Norway
 * **Time Windows:** 01:00 PM – 09:00 PM
 

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Eidfjord, Norway
+---
+
 # Eidfjord, Norway
 * **Time Windows:** 08:00 AM – 06:00 PM
 

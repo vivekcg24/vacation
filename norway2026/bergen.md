@@ -1,3 +1,8 @@
+---
+layout: page
+title: Bergen, Norway
+---
+
 # Bergen, Norway
 * **Time Windows:** 12:00 PM – 08:00 PM
 

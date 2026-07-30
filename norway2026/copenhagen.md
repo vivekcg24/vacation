@@ -1,3 +1,8 @@
+---
+layout: page
+title: Copenhagen, Denmark
+---
+
 # Copenhagen, Denmark
 * **Time Windows:** 09:00 AM – 05:00 PM
 
