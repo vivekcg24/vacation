@@ -3,6 +3,10 @@ layout: page
 #title: Bergen, Norway # Need to comment this to avoid link in main page
 ---
 
+- [Back to Main Plan](./norwaycruise.md)
+
+---
+
 # Bergen, Norway
 * **Time Windows:** 12:00 PM – 08:00 PM
 

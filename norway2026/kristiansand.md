@@ -3,6 +3,10 @@ layout: page
 #title: Kristiansand, Norway # Need to comment this to avoid link in main page
 ---
 
+- [Back to Main Plan](./norwaycruise.md)
+
+---
+
 # Kristiansand, Norway
 * **Time Windows:** 01:00 PM – 09:00 PM
 

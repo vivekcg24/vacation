@@ -3,6 +3,9 @@ layout: page
 #title: Oslo, Norway # Need to comment this to avoid link in main page
 ---
 
+- [Back to Main Plan](./norwaycruise.md)
+
+---
 # Oslo, Norway
 * **Time Windows:** 08:00 AM – 04:00 PM
 

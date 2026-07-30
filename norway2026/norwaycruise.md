@@ -3,6 +3,9 @@ layout: page
 title: Norway Cruise August 2026
 ---
 
+- [Back to Main Plan](./norwaycruise.md)
+
+---
 # Cruise details
 **Ship:** MSC Magnifica
 **Sailing Date:** August 9, 2026 – August 16, 2026  

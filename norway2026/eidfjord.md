@@ -3,6 +3,10 @@ layout: page
 # title: Eidfjord, Norway # Need to comment this to avoid link in main page
 ---
 
+- [Back to Main Plan](./norwaycruise.md)
+
+---
+
 # Eidfjord, Norway
 * **Time Windows:** 08:00 AM – 06:00 PM
 

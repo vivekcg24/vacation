@@ -3,6 +3,10 @@ layout: page
 #title: Copenhagen, Denmark # Need to comment this to avoid link in main page
 ---
 
+- [Back to Main Plan](./norwaycruise.md)
+
+---
+
 # Copenhagen, Denmark
 * **Time Windows:** 09:00 AM – 05:00 PM
 
