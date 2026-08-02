@@ -19,3 +19,8 @@ layout: page
   Head to the main pedestrian street. It is completely level, paved, and filled with local boutiques, bakeries, and accessible benches for resting.
 * **Walk Back to Pier**
   Enjoy a slow, flat walk back along the waterfront path toward the ship.
+
+* **Setesdal Line (Setesdalsbanen)**
+  Steam Engine train about 1 hour each way from Kristiansand by public Transport
+* **Boat trip on the Water**
+  Slot at 15:00 available for 13th August [Booking Link](https://www.nordicwaterways.com/)

@@ -18,3 +18,6 @@ layout: page
   Take a flat, 10-minute stroll over to Byparken, a beautiful public park surrounding a central lake. The paths are smooth pavement, lined with plenty of benches, blooming flower gardens, and nearby accessible cafes for coffee and traditional Norwegian pastries.
 * **Souvenir Shopping & Harbor Walk**
   Head slowly back towards the ship along the flat harbor front, stopping at the accessible boardwalk shops to pick up local gifts or woolens.
+
+* **Slow Catamaran Boat tour(3 hours)**
+  Electric boat thourgh the Fjord [Booking Link](https://rodne.no/en/fjord-experiences/bergen/)
