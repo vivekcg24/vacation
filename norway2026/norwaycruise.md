@@ -11,6 +11,7 @@ title: Norway Cruise August 2026
 ---
 # City plans
 
+- [August 8th Saturday - Road Trip](./roadtrip.md)
 - [August 11th Tuesday - Eidfjord](./eidfjord.md)
 - [August 12th Wednesday - Bergen](./bergen.md)
 - [August 13th Thursday - Kristiansand](./kristiansand.md)
